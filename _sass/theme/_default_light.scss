@@ -2,7 +2,7 @@
     DEFAULT THEME - LIGHT VERSION
     ========================================================================== */
 /* Color codes used for the theme */
- $primary-color              : #1B5E20;
+$primary-color              : #1B5E20;
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
@@ -11,7 +11,7 @@ $lighter-gray               : mix(#fff, $gray, 90%);
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
- $info-color                 : #1B5E20;
+$info-color                 : #1B5E20;
 $notice-color               : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
