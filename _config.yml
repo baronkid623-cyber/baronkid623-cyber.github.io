@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+﻿# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "fintech student SZU"
 title_separator          : "-"
 name                     : &name "Ethan Li"
-description              : &description "Ethan Li — FinTech student at Shenzhen University, exploring AI in finance, embedded systems, robotics, and software development."
+description              : &description "Ethan Li — 深圳大学金融科技专业学生，探索 AI 在金融中的应用、嵌入式系统与机器人开发。"
 url                      : https://baronkid623-cyber.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Ethan Li"
   pronouns         : # example: "she/her"  
-  bio              : "FinTech student at SZU. Proficient in C, C++, Python. Researching AI in finance, interested in embedded systems, robotics & software development."
+  bio              : "FinTech student at SZU. Proficient in C, C++, Python. Researching AI applications in finance. Passionate about embedded systems, robotics engineering, and software development."
   location         : "Shenzhen"
   employer         : "Shenzhen University"
   uri              : # URL
