@@ -144,7 +144,6 @@
 | `images/favicon.ico` / `.png` / `.svg` | Academic Pages 模板自带 | MIT License（模板附带） |
 | `images/apple-touch-icon-*` | Academic Pages 模板自带 | MIT License |
 | `assets/webfonts/fa-*.ttf/.woff2` | Font Awesome 免费版 | SIL OFL 1.1（Font Awesome Free License） |
-| 主题页面截图（`images/themes/`） | Academic Pages 模板自带 | MIT License |
 
 **不加载任何外部资源**。所有 CSS、JS、字体和图标均从站点自身 CDN（GitHub Pages）加载，不请求第三方域名。唯一的例外是 MathJax（从 `cdn.jsdelivr.net` 加载），但仅限于页面包含数学公式时，当前网站未使用该功能。
 
